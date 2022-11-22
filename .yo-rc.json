@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.0",
+    "libraryName": "custom-branding",
+    "libraryId": "137ebad0-b81a-4713-810f-976f4d3bb153",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "custom-branding",
+    "solutionShortDescription": "custom-branding description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}

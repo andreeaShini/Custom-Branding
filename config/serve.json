@@ -1,0 +1,33 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/core-build/serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://stpaulscc.sharepoint.com/sites/SPFxPlayground2",
+      "customActions": {
+        "67f0fba0-f396-4f4f-9a60-91e62c1ef6fe": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "favicon": "https://stpaulscc.sharepoint.com/sites/Staff/Custom%20Branding/favicon.ico",
+            "fa6css": "https://stpaulscc.sharepoint.com/sites/Staff/Custom%20Branding/css/fa6-all.min.css",
+            "customcss": "https://stpaulscc.sharepoint.com/sites/Staff/Custom%20Branding/css/custom-branding.css"
+          }
+        }
+      }
+    },
+    "customBranding": {
+      "pageUrl": "https://stpaulscc.sharepoint.com/sites/SPFxPlayground2",
+      "customActions": {
+        "67f0fba0-f396-4f4f-9a60-91e62c1ef6fe": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "favicon": "https://stpaulscc.sharepoint.com/sites/Staff/Custom%20Branding/favicon.ico",
+            "fa6css": "https://stpaulscc.sharepoint.com/sites/Staff/Custom%20Branding/css/fa6-all.min.css",
+            "customcss": "https://stpaulscc.sharepoint.com/sites/Staff/Custom%20Branding/css/custom-branding.css"
+          }
+        }
+      }
+    }
+  }
+}
