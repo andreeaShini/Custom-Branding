@@ -3,7 +3,7 @@
   "solution": {
     "name": "custom-branding-client-side-solution",
     "id": "137ebad0-b81a-4713-810f-976f4d3bb153",
-    "version": "1.0.0.0",
+    "version": "1.0.4.0",
     "includeClientSideAssets": true,
     "skipFeatureDeployment": true,
     "isDomainIsolated": false,
@@ -30,7 +30,7 @@
         "title": "Application Extension - Deployment of custom action",
         "description": "Deploys a custom action with ClientSideComponentId association",
         "id": "2b12df11-5efa-47ac-9b1a-e93fd8185a3c",
-        "version": "1.0.0.0",
+        "version": "1.0.4.0",
         "assets": {
           "elementManifests": [
             "elements.xml",

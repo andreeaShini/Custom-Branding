@@ -18,6 +18,7 @@ export interface ICustomBrandingApplicationCustomizerProperties {
   favicon: string;
   customcss: string;
   fa6css: string;
+  jQuery: string;
 }
 
 /** A Custom Action which can be run during execution of a Client Side Application */

@@ -9,9 +9,9 @@
         "67f0fba0-f396-4f4f-9a60-91e62c1ef6fe": {
           "location": "ClientSideExtension.ApplicationCustomizer",
           "properties": {
-            "favicon": "https://stpaulscc.sharepoint.com/sites/Staff/Custom%20Branding/favicon.ico",
-            "fa6css": "https://stpaulscc.sharepoint.com/sites/Staff/Custom%20Branding/css/fa6-all.min.css",
-            "customcss": "https://stpaulscc.sharepoint.com/sites/Staff/Custom%20Branding/css/custom-branding.css"
+            "favicon": "https://publiccdn.sharepointonline.com/stpaulscc.sharepoint.com/sites/Staff/Custom%20Branding/favicon.ico",
+            "fa6css": "https://publiccdn.sharepointonline.com/stpaulscc.sharepoint.com/sites/Staff/Custom%20Branding/css/fa6-all.min.css",
+            "customcss": "https://publiccdn.sharepointonline.com/stpaulscc.sharepoint.com/sites/Staff/Custom%20Branding/css/custom-branding.css"
           }
         }
       }
@@ -22,9 +22,9 @@
         "67f0fba0-f396-4f4f-9a60-91e62c1ef6fe": {
           "location": "ClientSideExtension.ApplicationCustomizer",
           "properties": {
-            "favicon": "https://stpaulscc.sharepoint.com/sites/Staff/Custom%20Branding/favicon.ico",
-            "fa6css": "https://stpaulscc.sharepoint.com/sites/Staff/Custom%20Branding/css/fa6-all.min.css",
-            "customcss": "https://stpaulscc.sharepoint.com/sites/Staff/Custom%20Branding/css/custom-branding.css"
+            "favicon": "https://publiccdn.sharepointonline.com/stpaulscc.sharepoint.com/sites/Staff/Custom%20Branding/favicon.ico",
+            "fa6css": "https://publiccdn.sharepointonline.com/stpaulscc.sharepoint.com/sites/Staff/Custom%20Branding/css/fa6-all.min.css",
+            "customcss": "https://publiccdn.sharepointonline.com/stpaulscc.sharepoint.com/sites/Staff/Custom%20Branding/css/custom-branding.css"
           }
         }
       }

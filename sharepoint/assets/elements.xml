@@ -4,6 +4,6 @@
         Title="CustomBranding"
         Location="ClientSideExtension.ApplicationCustomizer"
         ClientSideComponentId="67f0fba0-f396-4f4f-9a60-91e62c1ef6fe"
-        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+        ClientSideComponentProperties="{&quot;favicon&quot;:&quot;https://publiccdn.sharepointonline.com/stpaulscc.sharepoint.com/sites/Staff/Custom%20Branding/favicon.ico&quot;,&quot;fa6css&quot;:&quot;https://publiccdn.sharepointonline.com/stpaulscc.sharepoint.com/sites/Staff/Custom%20Branding/css/fa6-all.min.css&quot;,&quot;customcss&quot;:&quot;https://publiccdn.sharepointonline.com/stpaulscc.sharepoint.com/sites/Staff/Custom%20Branding/css/custom-branding.css&quot;}">
     </CustomAction>
 </Elements>
